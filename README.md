@@ -94,12 +94,13 @@ Emphasis 강조
 <img src ="https://user-images.githubusercontent.com/106229689/195992261-51b1a7d2-d244-4f02-8efa-272e1a4ceecd.PNG" width="400px" height="250px">
   
   
-### 이미지
-- 이미지는 px을 정해 주어야 합니다.
+### 이미지 넣는 방법px 정하기
+
+![이미지 넣는 방법](https://user-images.githubusercontent.com/106229689/195993435-30201466-72ab-4657-b7bd-3cad9b07d55c.PNG)
+
+
   
-  ex) 이미지를 넣고 <img src ="이미지 주소" width="400px" height="250px">을 정해 주어야 합니다.
-  
-<img src ="https://user-images.githubusercontent.com/106229689/195992825-211c5c0f-4755-4277-b961-44e1a6cd2c6e.PNG" width="400px" height="250px">
+ex)<img src ="https://user-images.githubusercontent.com/106229689/195992825-211c5c0f-4755-4277-b961-44e1a6cd2c6e.PNG"     width="400px" height="250px">
 
   
   
